@@ -84,7 +84,7 @@ const Meme = () => {
                     name="topText"
                     value={memeImg.topText}
                     onChange={handleChange}
-                    maxLength="18"
+                    maxLength="19"
                 />
                 <input
                     type="text"
